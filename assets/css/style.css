@@ -201,3 +201,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+footer div a{
+    color: #0072bb;
+}
